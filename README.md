@@ -1,6 +1,6 @@
 # Hello users!
 
-Hello! This is a interactive website that helps users find new music and new artists!
+Hello! This is a interactive website that helps users find new music and new artists! You can click "yes" if you like the displayed song/artist, and "no" if you do not. The repeated process will personalize your listening experience.
 
 ## What's in this project?
 
